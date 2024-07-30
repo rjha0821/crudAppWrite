@@ -1,0 +1,46 @@
+/* src/CrudOperations.css */
+.crud-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .form-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-container input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .form-container button {
+    padding: 5px 10px;
+  }
+  
+  .data-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .data-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .button-group {
+    display: flex;
+  }
+  
+  .button-group button {
+    margin-left: 10px;
+    padding: 5px 10px;
+  }
+  
